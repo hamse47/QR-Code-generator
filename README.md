@@ -1,5 +1,3 @@
-# QR-code-Generator
-
 # QR Code Generator
 
 ## Overview
